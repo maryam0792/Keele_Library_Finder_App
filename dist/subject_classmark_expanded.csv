@@ -1,0 +1,380 @@
+subject,classmark
+Accountancy,HF
+American History,EA
+American History,EB
+American History,EC
+American History,ED
+American History,EE
+American History,EF
+American History,EG
+American History,EH
+American History,EI
+American History,EJ
+American History,EK
+American History,EL
+American History,EM
+American History,EN
+American History,EO
+American History,EP
+American History,EQ
+American History,ER
+American History,ES
+American History,ET
+American History,EU
+American History,EV
+American History,EW
+American History,EX
+American History,EY
+American History,EZ
+American History,FA
+American History,FB
+American History,FC
+American History,FD
+American History,FE
+American History,FF
+American History,FG
+American History,FH
+American History,FI
+American History,FJ
+American History,FK
+American History,FL
+American History,FM
+American History,FN
+American History,FO
+American History,FP
+American History,FQ
+American History,FR
+American History,FS
+American History,FT
+American History,FU
+American History,FV
+American History,FW
+American History,FX
+American History,FY
+American History,FZ
+American Literature,PS
+Archaeology,CC
+Art,NA
+Art,NB
+Art,NC
+Art,ND
+Art,NE
+Art,NF
+Art,NG
+Art,NH
+Art,NI
+Art,NJ
+Art,NK
+Art,NL
+Art,NM
+Art,NN
+Art,NO
+Art,NP
+Art,NQ
+Art,NR
+Art,NS
+Art,NT
+Art,NU
+Art,NV
+Art,NW
+Art,NX
+Art,NY
+Art,NZ
+Astrophysics,QB
+Biochemistry,QP
+Biochemistry,RB
+Biology,QH
+Biomedical Science,QR
+Biomedical Science,RB
+Botany,QK
+Botany,SA
+Botany,SB
+Botany,SC
+Botany,SD
+Botany,SE
+Botany,SF
+Botany,SG
+Botany,SH
+Botany,SI
+Botany,SJ
+Botany,SK
+Botany,SL
+Botany,SM
+Botany,SN
+Botany,SO
+Botany,SP
+Botany,SQ
+Botany,SR
+Botany,SS
+Botany,ST
+Botany,SU
+Botany,SV
+Botany,SW
+Botany,SX
+Botany,SY
+Botany,SZ
+British History,DA
+Business,HD
+Business,HE
+Business,HF
+Chemistry,QD
+Chinese,PL
+Computing,QA
+Computing,TK
+Counselling and Psychotherapy,RC
+Criminology,HV
+Ecology,QH
+Economics,HA
+Economics,HB
+Economics,HC
+Economics,HD
+Economics,HE
+Economics,HF
+Economics,HG
+Economics,HH
+Economics,HI
+Economics,HJ
+Education,LA
+Education,LB
+Education,LC
+Education,LD
+Education,LE
+Education,LF
+Education,LG
+Education,LH
+Education,LI
+Education,LJ
+Education,LK
+Education,LL
+Education,LM
+Education,LN
+Education,LO
+Education,LP
+Education,LQ
+Education,LR
+Education,LS
+Education,LT
+Education,LU
+Education,LV
+Education,LW
+Education,LX
+Education,LY
+Education,LZ
+English Language,PE
+English Literature,PR
+Environmental Studies,GA
+Environmental Studies,GB
+Environmental Studies,GC
+Environmental Studies,GD
+Environmental Studies,GE
+Environmental Studies,GF
+Film Studies,PN
+Finance,HG
+Finance,HH
+Finance,HI
+Finance,HJ
+Forensic Science,HV
+French,PC
+Geography,GA
+Geography,GB
+Geography,GC
+Geography,GD
+Geography,GE
+Geography,GF
+Geology and Geoscience,QE
+German,PF
+History,DA
+History,DB
+History,DC
+History,DD
+History,DE
+History,DF
+History,DG
+History,DH
+History,DI
+History,DJ
+History,DK
+History,DL
+History,DM
+History,DN
+History,DO
+History,DP
+History,DQ
+History,DR
+History,DS
+History,DT
+History,DU
+History,DV
+History,DW
+History,DX
+History,DY
+History,DZ
+Human Biology,QM
+Human Biology,QN
+Human Biology,QO
+Human Biology,QP
+Human Biology,QQ
+Human Biology,QR
+Human Resource Management,HD
+Human Resource Management,HE
+Human Resource Management,HF
+International Law,JX
+International Relations,JZ
+Italian,PC
+Japanese,PL
+Law,KA
+Law,KB
+Law,KC
+Law,KD
+Law,KE
+Law,KF
+Law,KG
+Law,KH
+Law,KI
+Law,KJ
+Law,KK
+Law,KL
+Law,KM
+Law,KN
+Law,KO
+Law,KP
+Law,KQ
+Law,KR
+Law,KS
+Law,KT
+Law,KU
+Law,KV
+Law,KW
+Law,KX
+Law,KY
+Law,KZ
+Management and Marketing,HD
+Management and Marketing,HE
+Management and Marketing,HF
+Mathematics,QA
+Media Studies,PA
+Media Studies,PB
+Media Studies,PC
+Media Studies,PD
+Media Studies,PE
+Media Studies,PF
+Media Studies,PG
+Media Studies,PH
+Media Studies,PI
+Media Studies,PJ
+Media Studies,PK
+Media Studies,PL
+Media Studies,PM
+Media Studies,PN
+Media Studies,PO
+Media Studies,PP
+Media Studies,PQ
+Media Studies,PR
+Media Studies,PS
+Media Studies,PT
+Media Studies,PU
+Media Studies,PV
+Media Studies,PW
+Media Studies,PX
+Media Studies,PY
+Media Studies,PZ
+Medicinal Chemistry,QP
+Medicine,RA
+Medicine,RB
+Medicine,RC
+Medicine,RD
+Medicine,RE
+Medicine,RF
+Medicine,RG
+Medicine,RH
+Medicine,RI
+Medicine,RJ
+Medicine,RK
+Medicine,RL
+Medicine,RM
+Medicine,RN
+Medicine,RO
+Medicine,RP
+Medicine,RQ
+Medicine,RR
+Medicine,RS
+Medicine,RT
+Medicine,RU
+Medicine,RV
+Medicine,RW
+Medicine,RX
+Medicine,RY
+Medicine,RZ
+Mental Health,RA
+Mental Health,RB
+Mental Health,RC
+Music Technology,MT
+Music Technology,ML
+Neuroscience,RC
+Nursing,RI
+Pharmacology,RM
+Pharmacy,RS
+Philosophy,BA
+Philosophy,BB
+Philosophy,BC
+Philosophy,BD
+Philosophy,BE
+Philosophy,BF
+Philosophy,BG
+Philosophy,BH
+Philosophy,BI
+Philosophy,BJ
+Physics,QC
+Physiology,QP
+Physiotherapy,RM
+Politics,JA
+Politics,JB
+Politics,JC
+Politics,JD
+Politics,JE
+Politics,JF
+Politics,JG
+Politics,JH
+Politics,JI
+Politics,JJ
+Politics,JK
+Politics,JL
+Politics,JM
+Politics,JN
+Politics,JO
+Politics,JP
+Politics,JQ
+Politics,JR
+Politics,JS
+Politics,JT
+Politics,JU
+Politics,JV
+Politics,JW
+Politics,JX
+Psychology,BF
+Radiography,RC
+Religion,BL
+Religion,BM
+Religion,BN
+Religion,BO
+Religion,BP
+Religion,BQ
+Religion,BR
+Religion,BS
+Religion,BT
+Religion,BU
+Religion,BV
+Religion,BW
+Religion,BX
+Russian,PG
+Social Work,HV
+Sociology,HM
+Sociology,HN
+Sociology,HO
+Sociology,HP
+Sociology,HQ
+Sociology,HR
+Sociology,HS
+Sociology,HT
+Spanish,PC
+Veterinary Medicine,SF
